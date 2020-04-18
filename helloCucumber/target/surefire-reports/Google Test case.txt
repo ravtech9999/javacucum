@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Google Test case
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 17.504 s <<< FAILURE! - in Google Test case
+: Verifying Google Search Engine(Google Test case)  Time elapsed: 17.504 s  <<< FAILURE!
+java.lang.AssertionError
+
