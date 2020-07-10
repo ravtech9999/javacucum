@@ -12,7 +12,7 @@ public class BaseDriver {
     }
 
     public static void setDriver(){
-        System.setProperty("webdriver.chrome.driver","Drivers/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","Drivers/chrome83.exe");
         //d = new ChromeDriver();
         driver.set(new ChromeDriver());
     }
